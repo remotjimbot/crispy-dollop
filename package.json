@@ -1,0 +1,25 @@
+{
+  "name": "crispy-dollop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remotjimbot/crispy-dollop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remotjimbot/crispy-dollop/issues"
+  },
+  "homepage": "https://github.com/remotjimbot/crispy-dollop#readme",
+  "dependencies": {
+    "@indahsybla/menghitung-data-siswa": "^1.0.0",
+    "@nizarambr/teanxinx": "^1.0.0",
+    "kalkulator-kehidupan": "^1.0.1",
+    "sistem-absensi-murid": "^1.0.0"
+  }
+}
